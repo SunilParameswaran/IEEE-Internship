@@ -1,0 +1,16 @@
+fer2013*
+.vscode
+data/
+__pycache__
+high
+models/
+history_var
+history
+*.pth
+*.h5
+*.zip
+*.keras
+history_var/
+plot_model/
+tensor*/
+time_var/
